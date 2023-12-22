@@ -1,0 +1,5 @@
+main.js found, proceeding to spawn process
+Semantic Segmentation Editor
+Images (JPG, PNG, PCD) served from /Users/andrewpos/sse-images
+PCD binary segmentation data stored in /Users/andrewpos/sse-internal
+Number of available sets of object classes: 3
