@@ -2,3 +2,5 @@ node_modules
 .meteor/.id
 .meteor/versions
 .vscode/*
+bundle/*
+electron/*
